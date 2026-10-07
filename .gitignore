@@ -1,0 +1,21 @@
+# Build output
+bin/
+build/
+*.o
+*.obj
+*.exe
+
+# Data files and recordings
+*.csv
+*.png
+*.mp4
+*.mkv
+*.webm
+
+# Editors and tooling
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+*.swp
+.DS_Store
